@@ -1,2 +1,6 @@
 streamlit
-requests
+minio
+os
+uuid
+io
+qrcode
