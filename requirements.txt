@@ -1,6 +1,5 @@
 streamlit
 minio
-os
 uuid
 io
 qrcode

@@ -3,8 +3,6 @@ name: BUILD CI
 on:
   workflow_dispatch:
   push:
-    paths:
-      - '/**'
 
 jobs:
   main:
